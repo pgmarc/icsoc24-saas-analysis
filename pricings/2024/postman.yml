@@ -650,7 +650,7 @@ plans:
     monthlyPrice: 19.00
     annualPrice: 14.00
     unit: user/month
-    features: 
+    features:
       slackIntegration:
         value: true
       microsoftTeamsIntegration:
@@ -831,6 +831,7 @@ addOns:
       - PROFESSIONAL
       - ENTERPRISE
     price: 0.75
+    unit: USD/calls
     features: null
     usageLimits: null
     usageLimitsExtensions:
@@ -842,6 +843,7 @@ addOns:
       - PROFESSIONAL
       - ENTERPRISE
     price: 0.75
+    unit: USD/calls
     features: null
     usageLimits: null
     usageLimitsExtensions:
